@@ -1,2 +1,2 @@
 all:
-	g++ -O2 ErrorFinderMain.cpp -o gl_parameter_finder2.4
+	g++ -O2 ErrorFinderMain.cpp -o parameter_finder2.4
